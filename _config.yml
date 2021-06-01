@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "ooo"
-  avatar           : /assets/images/mp.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/mp.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # ""
-  location         : # ""
+  location         : "South Korea"
   email            : "duddbs774@gmail.com"
   links:
     - label: "Email"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Youngyoon-1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
