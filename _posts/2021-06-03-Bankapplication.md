@@ -1,5 +1,9 @@
 ---
 title: "BankApplication"
+categories:
+  - java
+tags:
+  - java
 layout: collection
 permalink: /portfolio/
 collection: portfolio
