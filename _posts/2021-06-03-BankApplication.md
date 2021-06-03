@@ -1,4 +1,1 @@
-----
-title: "BankApplication"
-----
 <a href="https://github.com/Youngyoon-1/bankapplication" target="_blank" title="GitHub repository"><img align="center" src="/assets/images/piggy-bank-solid.svg" height="400px" width="400px"></a>
